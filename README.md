@@ -1,6 +1,6 @@
 # Grading System with File Handling
 
-Welcome to the Grading System with File Handling! This Java program was developed during the summer to assist in the grading process, particularly for private college secretaries like my sister who need an efficient tool for managing student grades across multiple courses.
+Welcome to the Grading System with File Handling! This Java program was developed during the summer break to assist in the grading process, 
 
 ## Overview
 
